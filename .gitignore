@@ -3,3 +3,5 @@ node_modules
 .prettierrc
 dev-data
 .database.txt
+config.env
+*.env

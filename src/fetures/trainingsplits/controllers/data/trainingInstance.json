@@ -1,0 +1,369 @@
+[
+  {
+    "_id": { "$oid": "65e21a0a5d3531c37a110e50" },
+    "user": { "$oid": "65e21a0a5d3531c37a110e01" },
+    "trainingDay": { "$oid": "65e21a0a5d3531c37a110e40" },
+    "date": { "$date": "2024-03-02T14:00:00Z" },
+    "startTime": { "$date": "2024-03-02T14:00:00Z" },
+    "endTime": { "$date": "2024-03-02T15:15:00Z" },
+    "exercises": [
+      {
+        "exercise": { "$oid": "65e21a0a5d3531c37a110e10" },
+        "name": "Bench Press",
+        "plannedSets": 4,
+        "plannedReps": "8-10",
+        "actualSets": [
+          {
+            "weight": 80,
+            "reps": 10,
+            "isCompleted": true,
+            "notes": ""
+          },
+          {
+            "weight": 80,
+            "reps": 9,
+            "isCompleted": true,
+            "notes": ""
+          },
+          {
+            "weight": 75,
+            "reps": 10,
+            "isCompleted": true,
+            "notes": ""
+          },
+          {
+            "weight": 75,
+            "reps": 8,
+            "isCompleted": true,
+            "notes": "Felt tired"
+          }
+        ],
+        "isCompleted": true,
+        "notes": "Good chest pump"
+      },
+      {
+        "exercise": { "$oid": "65e21a0a5d3531c37a110e14" },
+        "name": "Overhead Press",
+        "plannedSets": 4,
+        "plannedReps": "8-10",
+        "actualSets": [
+          {
+            "weight": 50,
+            "reps": 10,
+            "isCompleted": true,
+            "notes": ""
+          },
+          {
+            "weight": 50,
+            "reps": 9,
+            "isCompleted": true,
+            "notes": ""
+          },
+          {
+            "weight": 45,
+            "reps": 9,
+            "isCompleted": true,
+            "notes": ""
+          },
+          {
+            "weight": 45,
+            "reps": 8,
+            "isCompleted": true,
+            "notes": ""
+          }
+        ],
+        "isCompleted": true,
+        "notes": ""
+      },
+      {
+        "exercise": { "$oid": "65e21a0a5d3531c37a110e1c" },
+        "name": "Incline Bench Press",
+        "plannedSets": 3,
+        "plannedReps": "8-10",
+        "actualSets": [
+          {
+            "weight": 60,
+            "reps": 10,
+            "isCompleted": true,
+            "notes": ""
+          },
+          {
+            "weight": 60,
+            "reps": 8,
+            "isCompleted": true,
+            "notes": ""
+          },
+          {
+            "weight": 55,
+            "reps": 9,
+            "isCompleted": true,
+            "notes": ""
+          }
+        ],
+        "isCompleted": true,
+        "notes": ""
+      },
+      {
+        "exercise": { "$oid": "65e21a0a5d3531c37a110e17" },
+        "name": "Tricep Extension",
+        "plannedSets": 3,
+        "plannedReps": "10-12",
+        "actualSets": [
+          {
+            "weight": 25,
+            "reps": 12,
+            "isCompleted": true,
+            "notes": ""
+          },
+          {
+            "weight": 25,
+            "reps": 10,
+            "isCompleted": true,
+            "notes": ""
+          },
+          {
+            "weight": 20,
+            "reps": 12,
+            "isCompleted": true,
+            "notes": ""
+          }
+        ],
+        "isCompleted": true,
+        "notes": "Great tricep pump"
+      }
+    ],
+    "isCompleted": true,
+    "notes": "Good push day, felt strong",
+    "rating": 4
+  },
+  {
+    "_id": { "$oid": "65e21a0a5d3531c37a110e51" },
+    "user": { "$oid": "65e21a0a5d3531c37a110e01" },
+    "trainingDay": { "$oid": "65e21a0a5d3531c37a110e41" },
+    "date": { "$date": "2024-03-03T15:00:00Z" },
+    "startTime": { "$date": "2024-03-03T15:00:00Z" },
+    "endTime": { "$date": "2024-03-03T16:20:00Z" },
+    "exercises": [
+      {
+        "exercise": { "$oid": "65e21a0a5d3531c37a110e13" },
+        "name": "Pull-up",
+        "plannedSets": 4,
+        "plannedReps": "8-12",
+        "actualSets": [
+          {
+            "weight": 0,
+            "reps": 10,
+            "isCompleted": true,
+            "notes": "Bodyweight"
+          },
+          {
+            "weight": 0,
+            "reps": 9,
+            "isCompleted": true,
+            "notes": "Bodyweight"
+          },
+          {
+            "weight": 0,
+            "reps": 8,
+            "isCompleted": true,
+            "notes": "Bodyweight"
+          },
+          {
+            "weight": 0,
+            "reps": 6,
+            "isCompleted": true,
+            "notes": "Bodyweight, struggled"
+          }
+        ],
+        "isCompleted": true,
+        "notes": "Need to improve"
+      },
+      {
+        "exercise": { "$oid": "65e21a0a5d3531c37a110e15" },
+        "name": "Barbell Row",
+        "plannedSets": 4,
+        "plannedReps": "8-10",
+        "actualSets": [
+          {
+            "weight": 70,
+            "reps": 10,
+            "isCompleted": true,
+            "notes": ""
+          },
+          {
+            "weight": 70,
+            "reps": 10,
+            "isCompleted": true,
+            "notes": ""
+          },
+          {
+            "weight": 70,
+            "reps": 8,
+            "isCompleted": true,
+            "notes": ""
+          },
+          {
+            "weight": 65,
+            "reps": 9,
+            "isCompleted": true,
+            "notes": ""
+          }
+        ],
+        "isCompleted": true,
+        "notes": ""
+      },
+      {
+        "exercise": { "$oid": "65e21a0a5d3531c37a110e19" },
+        "name": "Lat Pulldown",
+        "plannedSets": 4,
+        "plannedReps": "10-12",
+        "actualSets": [
+          {
+            "weight": 65,
+            "reps": 12,
+            "isCompleted": true,
+            "notes": ""
+          },
+          {
+            "weight": 65,
+            "reps": 11,
+            "isCompleted": true,
+            "notes": ""
+          },
+          {
+            "weight": 65,
+            "reps": 10,
+            "isCompleted": true,
+            "notes": ""
+          },
+          {
+            "weight": 60,
+            "reps": 11,
+            "isCompleted": true,
+            "notes": ""
+          }
+        ],
+        "isCompleted": true,
+        "notes": "Focused on full range of motion"
+      },
+      {
+        "exercise": { "$oid": "65e21a0a5d3531c37a110e16" },
+        "name": "Bicep Curl",
+        "plannedSets": 3,
+        "plannedReps": "10-12",
+        "actualSets": [
+          {
+            "weight": 15,
+            "reps": 12,
+            "isCompleted": true,
+            "notes": "Each arm"
+          },
+          {
+            "weight": 15,
+            "reps": 12,
+            "isCompleted": true,
+            "notes": "Each arm"
+          },
+          {
+            "weight": 15,
+            "reps": 10,
+            "isCompleted": true,
+            "notes": "Each arm"
+          }
+        ],
+        "isCompleted": true,
+        "notes": "Great bicep pump"
+      }
+    ],
+    "isCompleted": true,
+    "notes": "Back felt strong today",
+    "rating": 5
+  },
+  {
+    "_id": { "$oid": "65e21a0a5d3531c37a110e52" },
+    "user": { "$oid": "65e21a0a5d3531c37a110e02" },
+    "trainingDay": { "$oid": "65e21a0a5d3531c37a110e45" },
+    "date": { "$date": "2024-03-01T17:30:00Z" },
+    "startTime": { "$date": "2024-03-01T17:30:00Z" },
+    "endTime": { "$date": "2024-03-01T18:45:00Z" },
+    "exercises": [
+      {
+        "exercise": { "$oid": "65e21a0a5d3531c37a110e10" },
+        "name": "Bench Press",
+        "plannedSets": 4,
+        "plannedReps": "8-10",
+        "actualSets": [
+          {
+            "weight": 45,
+            "reps": 10,
+            "isCompleted": true,
+            "notes": ""
+          },
+          {
+            "weight": 45,
+            "reps": 9,
+            "isCompleted": true,
+            "notes": ""
+          },
+          {
+            "weight": 40,
+            "reps": 10,
+            "isCompleted": true,
+            "notes": ""
+          },
+          {
+            "weight": 40,
+            "reps": 9,
+            "isCompleted": true,
+            "notes": ""
+          }
+        ],
+        "isCompleted": true,
+        "notes": "Improving strength"
+      },
+      {
+        "exercise": { "$oid": "65e21a0a5d3531c37a110e11" },
+        "name": "Squat",
+        "plannedSets": 5,
+        "plannedReps": "5",
+        "actualSets": [
+          {
+            "weight": 60,
+            "reps": 5,
+            "isCompleted": true,
+            "notes": ""
+          },
+          {
+            "weight": 60,
+            "reps": 5,
+            "isCompleted": true,
+            "notes": ""
+          },
+          {
+            "weight": 60,
+            "reps": 5,
+            "isCompleted": true,
+            "notes": ""
+          },
+          {
+            "weight": 55,
+            "reps": 5,
+            "isCompleted": true,
+            "notes": ""
+          },
+          {
+            "weight": 55,
+            "reps": 5,
+            "isCompleted": true,
+            "notes": ""
+          }
+        ],
+        "isCompleted": true,
+        "notes": "Worked on depth"
+      }
+    ],
+    "isCompleted": true,
+    "notes": "Great full body workout",
+    "rating": 4
+  }
+]

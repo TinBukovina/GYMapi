@@ -1,0 +1,38 @@
+[
+  {
+    "_id": { "$oid": "65e21a0a5d3531c37a110e30" },
+    "name": "Push-Pull-Legs",
+    "user": { "$oid": "65e21a0a5d3531c37a110e01" },
+    "weeklyFrequency": 6,
+    "description": "Classic PPL split, training 6 days per week",
+    "isActive": true,
+    "createdAt": { "$date": "2024-03-01T15:30:00Z" }
+  },
+  {
+    "_id": { "$oid": "65e21a0a5d3531c37a110e31" },
+    "name": "Upper-Lower",
+    "user": { "$oid": "65e21a0a5d3531c37a110e01" },
+    "weeklyFrequency": 4,
+    "description": "4-day split focusing on upper and lower body",
+    "isActive": false,
+    "createdAt": { "$date": "2024-02-20T10:15:00Z" }
+  },
+  {
+    "_id": { "$oid": "65e21a0a5d3531c37a110e32" },
+    "name": "Full Body",
+    "user": { "$oid": "65e21a0a5d3531c37a110e02" },
+    "weeklyFrequency": 3,
+    "description": "Full body workout 3 times per week",
+    "isActive": true,
+    "createdAt": { "$date": "2024-02-25T08:45:00Z" }
+  },
+  {
+    "_id": { "$oid": "65e21a0a5d3531c37a110e33" },
+    "name": "Bro Split",
+    "user": { "$oid": "65e21a0a5d3531c37a110e03" },
+    "weeklyFrequency": 5,
+    "description": "One muscle group per day",
+    "isActive": true,
+    "createdAt": { "$date": "2024-02-28T16:20:00Z" }
+  }
+]

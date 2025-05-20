@@ -1,0 +1,122 @@
+[
+  {
+    "_id": { "$oid": "65e21a0a5d3531c37a110e10" },
+    "name": "Bench Press",
+    "sets": 4,
+    "repsPerSet": "8-10",
+    "restTime": 90,
+    "notes": "Keep shoulders back and down"
+  },
+  {
+    "_id": { "$oid": "65e21a0a5d3531c37a110e11" },
+    "name": "Squat",
+    "sets": 5,
+    "repsPerSet": "5",
+    "restTime": 120,
+    "notes": "Go below parallel"
+  },
+  {
+    "_id": { "$oid": "65e21a0a5d3531c37a110e12" },
+    "name": "Deadlift",
+    "sets": 3,
+    "repsPerSet": "5",
+    "restTime": 180,
+    "notes": "Keep back straight, push through heels"
+  },
+  {
+    "_id": { "$oid": "65e21a0a5d3531c37a110e13" },
+    "name": "Pull-up",
+    "sets": 4,
+    "repsPerSet": "8-12",
+    "restTime": 90,
+    "notes": "Full range of motion"
+  },
+  {
+    "_id": { "$oid": "65e21a0a5d3531c37a110e14" },
+    "name": "Overhead Press",
+    "sets": 4,
+    "repsPerSet": "8-10",
+    "restTime": 90,
+    "notes": "Tight core, don't arch back"
+  },
+  {
+    "_id": { "$oid": "65e21a0a5d3531c37a110e15" },
+    "name": "Barbell Row",
+    "sets": 4,
+    "repsPerSet": "8-10",
+    "restTime": 90,
+    "notes": "Pull to lower chest"
+  },
+  {
+    "_id": { "$oid": "65e21a0a5d3531c37a110e16" },
+    "name": "Bicep Curl",
+    "sets": 3,
+    "repsPerSet": "10-12",
+    "restTime": 60,
+    "notes": "Controlled movement"
+  },
+  {
+    "_id": { "$oid": "65e21a0a5d3531c37a110e17" },
+    "name": "Tricep Extension",
+    "sets": 3,
+    "repsPerSet": "10-12",
+    "restTime": 60,
+    "notes": "Keep elbows close to head"
+  },
+  {
+    "_id": { "$oid": "65e21a0a5d3531c37a110e18" },
+    "name": "Leg Press",
+    "sets": 4,
+    "repsPerSet": "10-12",
+    "restTime": 90,
+    "notes": "Don't lock knees at top"
+  },
+  {
+    "_id": { "$oid": "65e21a0a5d3531c37a110e19" },
+    "name": "Lat Pulldown",
+    "sets": 4,
+    "repsPerSet": "10-12",
+    "restTime": 90,
+    "notes": "Pull to upper chest"
+  },
+  {
+    "_id": { "$oid": "65e21a0a5d3531c37a110e1a" },
+    "name": "Dumbbell Shoulder Press",
+    "sets": 4,
+    "repsPerSet": "10-12",
+    "restTime": 90,
+    "notes": "Press straight up"
+  },
+  {
+    "_id": { "$oid": "65e21a0a5d3531c37a110e1b" },
+    "name": "Romanian Deadlift",
+    "sets": 3,
+    "repsPerSet": "10-12",
+    "restTime": 90,
+    "notes": "Feel the hamstrings stretch"
+  },
+  {
+    "_id": { "$oid": "65e21a0a5d3531c37a110e1c" },
+    "name": "Incline Bench Press",
+    "sets": 3,
+    "repsPerSet": "8-10",
+    "restTime": 90,
+    "notes": "Focus on upper chest"
+  },
+  {
+    "_id": { "$oid": "65e21a0a5d3531c37a110e1d" },
+    "name": "Dumbbell Row",
+    "sets": 3,
+    "repsPerSet": "10-12",
+    "restTime": 60,
+    "notes": "Elbow close to body"
+  },
+  {
+    "_id": { "$oid": "65e21a0a5d3531c37a110e1e" },
+    "name": "Leg Extension",
+    "sets": 3,
+    "repsPerSet": "12-15",
+    "restTime": 60,
+    "notes": "Squeeze quads at top"
+  }
+]

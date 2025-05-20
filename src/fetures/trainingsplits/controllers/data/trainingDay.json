@@ -1,0 +1,97 @@
+[
+  {
+    "_id": { "$oid": "65e21a0a5d3531c37a110e40" },
+    "name": "Push Day",
+    "trainingSplit": { "$oid": "65e21a0a5d3531c37a110e30" },
+    "exercises": [
+      { "$oid": "65e21a0a5d3531c37a110e10" },
+      { "$oid": "65e21a0a5d3531c37a110e14" },
+      { "$oid": "65e21a0a5d3531c37a110e1c" },
+      { "$oid": "65e21a0a5d3531c37a110e17" }
+    ],
+    "dayOrder": 1,
+    "notes": "Focus on chest, shoulders, and triceps",
+    "createdAt": { "$date": "2024-03-01T15:35:00Z" }
+  },
+  {
+    "_id": { "$oid": "65e21a0a5d3531c37a110e41" },
+    "name": "Pull Day",
+    "trainingSplit": { "$oid": "65e21a0a5d3531c37a110e30" },
+    "exercises": [
+      { "$oid": "65e21a0a5d3531c37a110e13" },
+      { "$oid": "65e21a0a5d3531c37a110e15" },
+      { "$oid": "65e21a0a5d3531c37a110e19" },
+      { "$oid": "65e21a0a5d3531c37a110e16" }
+    ],
+    "dayOrder": 2,
+    "notes": "Focus on back and biceps",
+    "createdAt": { "$date": "2024-03-01T15:40:00Z" }
+  },
+  {
+    "_id": { "$oid": "65e21a0a5d3531c37a110e42" },
+    "name": "Leg Day",
+    "trainingSplit": { "$oid": "65e21a0a5d3531c37a110e30" },
+    "exercises": [
+      { "$oid": "65e21a0a5d3531c37a110e11" },
+      { "$oid": "65e21a0a5d3531c37a110e18" },
+      { "$oid": "65e21a0a5d3531c37a110e1b" },
+      { "$oid": "65e21a0a5d3531c37a110e1e" }
+    ],
+    "dayOrder": 3,
+    "notes": "Focus on quads, hamstrings, and calves",
+    "createdAt": { "$date": "2024-03-01T15:45:00Z" }
+  },
+  {
+    "_id": { "$oid": "65e21a0a5d3531c37a110e43" },
+    "name": "Upper Body A",
+    "trainingSplit": { "$oid": "65e21a0a5d3531c37a110e31" },
+    "exercises": [
+      { "$oid": "65e21a0a5d3531c37a110e10" },
+      { "$oid": "65e21a0a5d3531c37a110e13" },
+      { "$oid": "65e21a0a5d3531c37a110e14" },
+      { "$oid": "65e21a0a5d3531c37a110e16" }
+    ],
+    "dayOrder": 1,
+    "notes": "Heavy upper body day",
+    "createdAt": { "$date": "2024-02-20T10:20:00Z" }
+  },
+  {
+    "_id": { "$oid": "65e21a0a5d3531c37a110e44" },
+    "name": "Lower Body A",
+    "trainingSplit": { "$oid": "65e21a0a5d3531c37a110e31" },
+    "exercises": [
+      { "$oid": "65e21a0a5d3531c37a110e11" },
+      { "$oid": "65e21a0a5d3531c37a110e1b" },
+      { "$oid": "65e21a0a5d3531c37a110e18" }
+    ],
+    "dayOrder": 2,
+    "notes": "Heavy lower body day",
+    "createdAt": { "$date": "2024-02-20T10:25:00Z" }
+  },
+  {
+    "_id": { "$oid": "65e21a0a5d3531c37a110e45" },
+    "name": "Full Body A",
+    "trainingSplit": { "$oid": "65e21a0a5d3531c37a110e32" },
+    "exercises": [
+      { "$oid": "65e21a0a5d3531c37a110e10" },
+      { "$oid": "65e21a0a5d3531c37a110e11" },
+      { "$oid": "65e21a0a5d3531c37a110e15" },
+      { "$oid": "65e21a0a5d3531c37a110e16" }
+    ],
+    "dayOrder": 1,
+    "notes": "Focus on compound movements",
+    "createdAt": { "$date": "2024-02-25T08:50:00Z" }
+  },
+  {
+    "_id": { "$oid": "65e21a0a5d3531c37a110e46" },
+    "name": "Chest Day",
+    "trainingSplit": { "$oid": "65e21a0a5d3531c37a110e33" },
+    "exercises": [
+      { "$oid": "65e21a0a5d3531c37a110e10" },
+      { "$oid": "65e21a0a5d3531c37a110e1c" }
+    ],
+    "dayOrder": 1,
+    "notes": "All chest exercises",
+    "createdAt": { "$date": "2024-02-28T16:25:00Z" }
+  }
+]
